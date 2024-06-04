@@ -41,6 +41,5 @@ Here are some of my notable projects:
 
 Feel free to connect with me on:
 
-- [LinkedIn](https://www.linkedin.com/in/muhammad-harits-detya-irawan)
-- [Twitter](https://twitter.com/[your-twitter-username])
+- [LinkedIn](https://www.linkedin.com/in/muhammad-harits-detya-irawan-219767279)
 - [Email](mailto:muhammadharitsdetyairawan2004@mail.ugm.ac.id)
