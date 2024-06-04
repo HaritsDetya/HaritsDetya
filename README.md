@@ -16,7 +16,7 @@ I'm a [Your Occupation] with a passion for Front-End Web Developer. Welcome to m
 
 ## Skills
 
-- **Programming Languages:** [Your Programming Languages]
+- **Programming Languages:** HTML, CSS, JavaScript, React
 - **Frameworks/Libraries:** [Your Frameworks/Libraries]
 - **Tools:** [Your Tools]
 
