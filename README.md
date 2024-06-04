@@ -1,8 +1,8 @@
-# Hello, I'm [Harits] 👋
+# Hello, I'm Harits 👋
 
 <img align="right" src="https://github.com/[your-username]/[your-username]/blob/main/profile-image.jpg?raw=true" width="300" height="300" />
 
-I'm a [Your Occupation] with a passion for [Front-End Web Developer]. Welcome to my GitHub profile!
+I'm a [Your Occupation] with a passion for Front-End Web Developer. Welcome to my GitHub profile!
 
 ## About Me
 
