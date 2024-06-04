@@ -7,11 +7,11 @@ I'm a [Your Occupation] with a passion for Front-End Web Developer. Welcome to m
 ## About Me
 
 - 🔭 I'm currently working on [Your Current Project]
-- 🌱 I'm currently learning [Your Current Learning]
+- 🌱 I'm currently learning React
 - 👯 I'm looking to collaborate on [Your Collaboration Interests]
 - 🤔 I'm looking for help with [Your Help Needed]
 - 💬 Ask me about [Your Expertise]
-- 📫 How to reach me: [Your Contact Info]
+- 📫 How to reach me: +62 83862261188
 - ⚡ Fun fact: [Your Fun Fact]
 
 ## Skills
@@ -41,6 +41,6 @@ Here are some of my notable projects:
 
 Feel free to connect with me on:
 
-- [LinkedIn](https://www.linkedin.com/in/[your-linkedin-username])
+- [LinkedIn](https://www.linkedin.com/in/muhammad-harits-detya-irawan)
 - [Twitter](https://twitter.com/[your-twitter-username])
-- [Email](mailto:[your-email])
+- [Email](mailto:muhammadharitsdetyairawan2004@mail.ugm.ac.id)
