@@ -11,13 +11,21 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/muhammad-harits-detya-irawan-219767279" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-harits-detya-irawan-219767279" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muhammad-harits-detya-irawan-219767279" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+    alt="muhammad-harits-detya-irawan-219767279" height="30" width="40" />
+</a>
+<a href="https://discordapp.com/users/770830655042879499" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord"
+    height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,kotlin,react,java,py,nextjs,tailwind,ts,php,git,androidstudio,blender,bootstrap,figma,firebase,github,idea,laravel,notion" />
+    <img src="https://skillicons.dev/icons
+      i=html,css,js,kotlin,react,java,py,nextjs,tailwind,ts,php,git,androidstudio,blender,bootstrap,figma,firebase,github,idea,laravel,notion" />
   </a>
 </p>
 
