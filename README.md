@@ -23,7 +23,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js" />
+  </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haritsdetya&show_icons=true&locale=en&layout=compact" alt="haritsdetya" /></p>
