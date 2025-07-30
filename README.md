@@ -23,10 +23,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons
-      i=html,css,js,kotlin,react,java,py,nextjs,tailwind,ts,php,git,androidstudio,blender,bootstrap,figma,firebase,github,idea,laravel,notion" />
-  </a>
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haritsdetya&show_icons=true&locale=en&layout=compact" alt="haritsdetya" /></p>
