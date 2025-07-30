@@ -24,7 +24,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,tailwind,react,py,vscode" />
+    <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase,gradle" />
+    <img src="https://skillicons.dev/icons?i=figma,blender" />
   </a>
 </p>
 
