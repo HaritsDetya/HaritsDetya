@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haritsdetya" alt="haritsdetya" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Kotlin Multi-Platform**
 
 - 📫 How to reach me **muhammadharitsdetyairawan2004@mail.ugm.ac.id**
 
